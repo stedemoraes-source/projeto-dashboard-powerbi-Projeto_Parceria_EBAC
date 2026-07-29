@@ -22,8 +22,10 @@ O painel reúne métricas relacionadas ao desempenho das entregas, custos, frete
 
 - Google Looker Studio
 - Google Sheets
+- Parquet
 - Data Visualization
 - Data Storytelling
+- Business Intelligence
 
 ---
 
@@ -51,7 +53,25 @@ A base analítica está disponível no formato Parquet, compactada em .zip para 
 
 ## 📷 Dashboard
 
-As imagens do dashboard estarão disponíveis na pasta **/imagens**.
+### Visão Geral
+
+![Página 1](imagens/Pag1.png)
+
+### Clientes
+
+![Página 2](imagens/Pag2.png)
+
+### Entregas
+
+![Página 3](imagens/Pag3.png)
+
+### Produtos
+
+![Página 4](imagens/Pag4.png)
+
+### Insights
+
+![Página 5](imagens/Pag5.png)
 
 ---
 
