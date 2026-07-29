@@ -27,7 +27,7 @@ O painel reúne métricas relacionadas ao desempenho das entregas, custos, frete
 
 ---
 
-## 📈 Indicadores analisados
+## 📈 KPIS analisados
 
 - Total de Entregas
 - Pedidos em Atraso
