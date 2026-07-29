@@ -44,6 +44,10 @@ O painel reúne métricas relacionadas ao desempenho das entregas, custos, frete
 O dashboard permite identificar tendências nos atrasos das entregas, acompanhar indicadores operacionais e visualizar oportunidades de melhoria nos processos logísticos, facilitando uma tomada de decisão baseada em dados.
 
 ---
+## 💻​ Base dos dados
+A base analítica está disponível no formato Parquet, compactada em .zip para facilitar o armazenamento e o download.
+
+---
 
 ## 📷 Dashboard
 
